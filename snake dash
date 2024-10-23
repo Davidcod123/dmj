@@ -1,0 +1,5 @@
+git init
+git add yourfile.py
+git commit -m "s.py"
+git remote add origin <your-repo-url>
+git push -u origin master
